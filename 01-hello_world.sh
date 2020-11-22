@@ -3,9 +3,11 @@
 echo "Hello World bitchess"
 
 
--e  echo "1/n2/n3" " is the name bitch "
+echo -e "1/n2/n3" " is the name bitch "
 
 read -p "whats your name bitch" name 
 
 
-echo -e "okay  $name are you a little bitchor a badd asss bitch "
+read  -e -p "okay  $name are you a little bitchor a badd asss bitch "  bitch
+
+read  -e -p"aight me need $bitch in our crew , we get shit done at  the cvm, gotme
