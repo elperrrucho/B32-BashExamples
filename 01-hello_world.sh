@@ -1,13 +1,22 @@
 #!/bin/bash
 
-echo "Hello World bitchess"
+# ceci est un commentaire
 
+echo "salut Antoine"
+# ou
+echo salut Antoine
+# ou
+echo 'salut Antoine'
 
-echo -e "1/n2/n3" " is the name bitch "
+echo -n "Vive "
+echo "Linux"
+# va ecrire Vive Linux sans saut de ligne
 
-read -p "whats your name bitch" name 
+echo -e "1\n2\n3\n4" #-e interprète les métacaractères
 
+read -p "My name is?" nom
+#read c'est comme un cin
+#, -p "mon message"
+# variable_qui_recoit_la_valeur, ici nom
 
-read  -e -p "okay  $name are you a little bitchor a badd asss bitch "  bitch
-
-read  -e -p"aight me need $bitch in our crew , we get shit done at  the cvm, gotme
+echo "tchic ka thcick la tchic" $nom
