@@ -1,6 +1,6 @@
 #!/bin/bash
 
-prenom="Antoine" #pas de $ devant la variable et pas d'espace autour du =
+prenom="Edgar Alejandro" #pas de $ devant la variable et pas d'espace autour du =
 nomFamille="Chagnon Michaud" #guillements doubles pour des mots separes
 echo $prenom $nomFamille #On met un $ devant une variable qu'on appel
 
@@ -20,4 +20,4 @@ echo $1 $2 $# $0
 # $2 C'est le deuxième mot passé en paramètre lors de lappel du script
 # $# C'est le nombre darguments passés en paramètres
 # $0 C'est le nom fichier
-© 2020 GitHub, Inc.
+

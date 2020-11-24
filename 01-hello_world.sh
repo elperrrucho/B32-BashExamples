@@ -2,13 +2,13 @@
 
 # ceci est un commentaire
 
-echo "salut Antoine"
+echo "salut Edgare"
 # ou
 echo salut Antoine
 # ou
-echo 'salut Antoine'
+echo 'salut Edgar'
 
-echo -n "Vive "
+echo-n  "Vive "
 echo "Linux"
 # va ecrire Vive Linux sans saut de ligne
 
